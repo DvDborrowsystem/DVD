@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="dccif &lt;heyujieboy@163.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="dccif &lt;heyujieboy@163.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="668" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="481" key="DIALOG_HEIGHT"/>
+		<item value="635" key="DIALOG_X_ORIGIN"/>
+		<item value="204" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="E:\MyJava\.git">
+			<item value="false"/>
+			<item value="dccif &lt;heyujieboy@163.com&gt;"/>
+			<item value="&#x0D;&#x0A;&#x0D;&#x0A;Change-Id: I0000000000000000000000000000000000000000&#x0D;&#x0A;"/>
+			<item value="dccif &lt;heyujieboy@163.com&gt;"/>
+			<item value="87756e76792c404354d3bb43734b2026c182b228"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+	<section name="CommitSelectionDialogSection">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="748" key="DIALOG_X_ORIGIN"/>
+			<item value="213" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>
